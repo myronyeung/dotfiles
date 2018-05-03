@@ -1,0 +1,5 @@
+{
+  "editor.detectIndentation": false, // This is clutch! https://code.visualstudio.com/docs/getstarted/settings
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+}
