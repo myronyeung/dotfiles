@@ -1,7 +1,5 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-# Forever WIP: what and how I code will change.
-
 .DS_Store
 .AppleDouble
 .LSOverride
